@@ -1,0 +1,8 @@
+{
+  "appId": "jorgeulises.music.com",
+  "appName": "Music Play",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

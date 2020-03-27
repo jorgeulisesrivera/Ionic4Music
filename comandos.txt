@@ -1,1 +1,15 @@
 ionic start ionicmusic tabs
+
+ionic serve
+
+npm install --save @capacitor/core @capacitor/cli --save-exact
+
+npx cap init
+
+npx cap add android
+
+(ionic build)
+
+npx cap open android
+
+npx cap sync / npm cap copy
